@@ -23,6 +23,8 @@ Run a No# program from the command line:
 dotnah run path/to/file.nos
 ```
 
+**Be sure to put `dotnah.exe` and `nosharp_parser` in the same directory**
+
 ## Technologies
 
 - C#
